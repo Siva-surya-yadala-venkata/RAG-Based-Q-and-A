@@ -1,4 +1,3 @@
-```markdown
 # 📚 RAG-Based Question Answering System using LangChain & Hugging Face
 
 This project implements a **Retrieval-Augmented Generation (RAG)** based **Question Answering (Q&A)** system using **LangChain**, **Hugging Face LLMs**, and **ChromaDB** as the vector database.
