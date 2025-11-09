@@ -173,10 +173,5 @@ huggingface-hub
 ## ✍️ Author
 
 **Yadala Venkata Siva Surya**
-📬 Contact: [LinkedIn / GitHub profile link here]
+📬 Contact: [[LinkedIn ](https://www.linkedin.com/in/yadala-venkata-siva-surya-1a1a3b256/)/ [GitHub profile link here](https://github.com/Siva-surya-yadala-venkata/)]
 🕉️ *Om Nama Sivaya*
-
----
-
-```
-
