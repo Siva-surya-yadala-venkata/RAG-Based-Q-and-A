@@ -98,7 +98,9 @@ ModuleNotFoundError: No module named 'langchain_experimental.text_splitter'
 
 ````
 
-### Fix Options
+### Fix Options ( Once it worked Please go through the Langchain Documentation and Please Verify due to PyPI will be regularly updates everyday in langchain experimental so please Go through the Documentation and verify or with 
+
+from langchain_experimental.text_splitter import Semantic Chunker then Verify 
 
 #### ✅ Option 1 — Use the older stable version
 ```bash
